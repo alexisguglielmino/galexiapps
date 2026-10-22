@@ -392,3 +392,6 @@ body::after {
   width: 32%;
   height: auto;
 }
+.apps {
+  scroll-margin-top: 100px;
+}
